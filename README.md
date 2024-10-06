@@ -29,7 +29,6 @@ extras de cada tipo (50 y 100). Si se selecciona una celda, se mostraran los dat
 datos como el comentario o el número de horas.
 
 ## Módulo Periodo y Feriados
-Este módulo sirve para crear nuevos periodos y establecer feriados. Para crear un nuevo periodo se debe seleccionar el nombre del periodo (Se establece de la forma XXXX-MM mmm), también se
-debe seleccionar la fecha de inicio y de fin. Otra funcionalidad que se necesita es activar o desactivar periodos. 
+Este módulo sirve para crear nuevos periodos y establecer feriados. Para crear un nuevo periodo se debe seleccionar el nombre del periodo (Se establece de la forma XXXX-MM mmm), también se debe seleccionar la fecha de inicio y de fin. Se muestra así mismo, ua tabla listando los periodos e información relevante en una tabla.
 
-Adicional, tenemos un formulario para agregar feriado, lo único que se necesita es la fecha y un comentario.
+Adicional, tenemos un formulario para agregar feriado, lo único que se necesita es la fecha y un comentario. Así mismo hay una tabla que muestra los periodos.
